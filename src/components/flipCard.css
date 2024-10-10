@@ -1,0 +1,21 @@
+.flip-card-container {
+    display: flex;
+    flex-wrap: wrap; 
+    padding: 3rem;
+    justify-content: space-between;
+}
+
+.flip-card-item {
+     
+    padding: 3rem;
+    width: calc(20% - 20px); 
+    box-sizing: border-box; 
+}
+
+.input-item{
+    margin-top: 140px;
+}
+
+.flip-each-card-item{
+    margin-top: 40px;
+}
